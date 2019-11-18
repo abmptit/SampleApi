@@ -1,0 +1,6 @@
+{
+    "testing": {
+        "config_id": "testing",
+        "database": "my-app-db-test"
+    }
+}

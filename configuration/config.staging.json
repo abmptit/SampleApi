@@ -1,0 +1,7 @@
+{
+    "staging": {
+        "config_id": "staging",
+        "node_port": 8080,
+        "database": "my-app-db-stag"
+    }
+}
