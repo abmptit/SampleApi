@@ -1,6 +1,4 @@
 {
-    "testing": {
-        "config_id": "testing",
-        "database": "my-app-db-test"
-    }
+    "config_id": "testing",
+    "database": "my-app-db-test-override"
 }
