@@ -15,7 +15,7 @@
     "mongodb": "^2.2.16"
   },
   "devDependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "nodemon": "^1.19.4"
   }
 }
